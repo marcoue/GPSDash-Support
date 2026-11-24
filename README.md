@@ -105,7 +105,7 @@ Connecting does not automatically upload your existing track library. New record
 
 Phone and server libraries remain independent. Deleting a local track does not automatically delete its server copy, and hiding live position does not stop uploads.
 
-[Explore GPXDash](https://dashapps.app/gpxdash/)
+[Explore GPXDash](https://dashapps.app/)
 
 ## Feature Requests
 
